@@ -105,6 +105,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Start with Bitcoin](https://www.startwithbitcoin.com/) - Give your AI agents identity, wallet, and autonomous payment capabilities using Lightning Network and Nostr
 
 #### Exchanges
+ - [B2B Central](https://b2p-central.com/) - Crypto swap exchange aggregator
  - [Bitcoin Well](https://bitcoinwell.com/) - Bitcoin exchange that sends purchased bitcoin directly to your wallet
  - [Bringin](https://bringin.xyz/) - Sell bitcoin from your wallet directly to IBAN accounts
  - [Mostro](https://mostro.network/) - Non-custodial P2P Bitcoin exchange on lightning network & Nostr
@@ -140,6 +141,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [Bitcoin Lightning Publisher](https://wordpress.org/plugins/bitcoin-lightning-publisher/) - A Wordpress plugin to accept donations and set paywalls on websites
 - [Highlighter](https://highlighter.com/) - Highlighter stands out by offering creators true ownership of their audience
 - [YakiHonne](https://yakihonne.com/) - A well-designed decentralized long-form content media platform
+- [ZapBook](https://www.zapbook.space/) - A Nostr-native social reading app
 
 #### Merchant & Business Tools
  - [Bitinfrashop](https://github.com/NodeDiver/bitinfrashop) - Enable automated monthly subscription payments via NWC for BTCPayServer users
