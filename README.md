@@ -144,6 +144,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [ZapBook](https://www.zapbook.space/) - A Nostr-native social reading app
 
 #### Merchant & Business Tools
+ - [Ambrosia PoS](https://ambrosiapay.com/en/) - A modular, multi-user point-of-sale system for Lightning payments, supporting role-based access and self-hosted NWC/Phoenixd nodes.
  - [Bitinfrashop](https://github.com/NodeDiver/bitinfrashop) - Enable automated monthly subscription payments via NWC for BTCPayServer users
  - [BLFS](https://github.com/MegalithicBTC/BLFS) - Bitcoin Lightning For Shopify
  - [BTCPay Server](https://docs.btcpayserver.org/Nostr/) - Open-source payment processor
