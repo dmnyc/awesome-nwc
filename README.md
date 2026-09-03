@@ -281,7 +281,7 @@ These tools and libraries help apps to integrate the NWC protocol and enable in-
 - [NWC Tester (Simple)](https://getalby.github.io/nwc-tester/) - Test NWC Connection Secrets
 - [NWC Tester (Advanced)](https://supertestnet.github.io/nwc_tester/) - Check NWC Connection Secrets' permissions, perform events
 - [NWC Tester (With Notification Support)](https://rizful.com/nwc_tester) - Test notifications for a NWC URI
-- [OpenReceive](https://openreceive.org/) - Self-hosted libraries for Node and Rails to accept payments directly into your own wallet via a receive-only NWC connection
+- [OpenReceive](https://openreceive.org/) - Libraries for Node and Rails to accept payments directly into your own wallet via a receive-only NWC connection
 - [pkgzap](https://pkgzap.albylabs.com/) - Support npm packages used by your project and get tipped for your package
 - [Portal SDK](https://github.com/PortalTechnologiesInc/lib) - Nostr-based authentication and payment SDK allowing applications to authenticate users and process payments through Nostr and Lightning Network
 - [Python3 library](https://github.com/supertestnet/python_nwc)
