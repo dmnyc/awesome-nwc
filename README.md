@@ -41,6 +41,7 @@ Users connect wallets instantly – no Nostr account required. Apps orchestrate 
 - [Coinos](https://coinos.io/) - Free custodial web wallet and payment page
 - [Electrum](https://electrum.org/) - Legendary on-chain and lightning wallet
 - [Flash Wallet](https://paywithflash.com/wallet/) - Self-custodial wallet built on Breez SDK
+- [Lightning Control Center](https://github.com/lioranecho-cpu/lightning-control-center) - Self-hosted LND node dashboard with NWC connections for apps (Pro tier)
 - [LNbits](https://lnbits.com/) - Powerful suite of bitcoin tools that has Nostr Wallet Connect plugin
 - [LNCurl](https://lncurl.lol/) - Agent-first custodial NWC wallet provider - create wallets with a single CURL command.
 - [LN Node](https://doc.nostrassets.com/micronode-early-access) - Innovative service designed to simplify the setup and management of a lightning node
@@ -226,6 +227,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [bullishNWC](https://github.com/thebullishbitcoiner/bullishnwc) - A simple, streamlined PWA to connect to your NWC wallets
 - [Brick Wallet](https://github.com/supertestnet/brick-wallet) - A web frontend for NWC
 - [LaWallet](https://alpha.lawallet.io/wallet/login) - Create and manage Boltcard payments to your connected NWC wallets
+- [Lightning Control Center](https://github.com/lioranecho-cpu/lightning-control-center) - Self-hosted node dashboard with a Treasury interface for connecting external NWC wallets (Pro tier)
 - [Nostr Pay](https://github.com/aniketambore/nostr_pay) - Simple Android wallet connecting to your NWC wallet [_not maintained_]
 - [Portal App](https://github.com/PortalTechnologiesInc/portal-app) - A mobile identity wallet for secure authentication and payments using the Nostr protocol
 - [Split Rewards](https://www.split-loyalty.com/) - Fully loaded Bitcoin rewards app. Earn sats for spending Bitcoin. Connect to your Alby node.
