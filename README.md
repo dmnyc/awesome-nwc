@@ -205,6 +205,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Yana](https://yana.do/) - Yet another Nostr app for Android and iOS
  - [Zapddit](https://zapddit.com/) - Choose topics to follow and join communities
  - [Zappix](https://zappix.app/feed/global) - Nostr image sharing client
+ - [zappr](https://www.usezappr.xyz/) - Nostr social client with an NWC wallet interface and AI assistant for feed summaries and user-approved Lightning payments
  - [Jumble](https://jumble.social/) - Fast Nostr Web client
 
 
