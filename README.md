@@ -101,6 +101,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 
 #### Education
 - [Alby Sandbox](https://sandbox.albylabs.com/) - Explore lightning payment scenarios
+- [Bitcoin Education Archive](https://bitcoineducation.quest/) - Learn Bitcoin through quests, quizzes, and games, earn sats, and tip other learners using NWC
 - [Kanbanstr](https://www.kanbanstr.com/) - Kanban boards over Nostr, with zaps
 - [PlebDevs](https://plebdevs.com/) - Online courses on bitcoin & lightning code development
 - [Start with Bitcoin](https://www.startwithbitcoin.com/) - Give your AI agents identity, wallet, and autonomous payment capabilities using Lightning Network and Nostr
